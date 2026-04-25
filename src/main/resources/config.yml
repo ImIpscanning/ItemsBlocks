@@ -1,0 +1,6 @@
+blocked-blocks:
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - NETHERITE_BLOCK
